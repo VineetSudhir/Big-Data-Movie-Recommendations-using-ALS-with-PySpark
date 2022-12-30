@@ -1,6 +1,8 @@
 # Big-Data-Movie-Recommendations-using-ALS-with-PySpark
 Big Data Movie Recommendations using ALS recommendation model with hyperparameter tuning
 
+Dataset was too big to upload @ 163 MB
+
 Reduced Sparsity of dataset by sampling from Big dataset
 Test among multiple combinations of values for hyperparameters 
 
