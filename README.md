@@ -5,7 +5,7 @@ Dataset was too big to upload @ 163 MB
 
 Reduced Sparsity of dataset by sampling from Big dataset.
 Test among multiple combinations of values for the hyperparameters.
-Utilized reduceByKey and Persist to lower the validation error.
+Utilized persist, tuned the hyperparameters, and reduced the sparsity of the dataset to lower the validation error.
 
 Validation error using big dataset is approximately 389% 
 Validation error after reducing sparsity of big dataset is approximately 95.6%
