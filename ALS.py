@@ -1,4 +1,4 @@
-    ### Big Data Movie Recommendations using ALS recommendation model with hyperparameter tuning ###
+### Big Data Movie Recommendations using ALS recommendation model with hyperparameter tuning ###
 import pyspark
 import pandas as pd
 import numpy as np
