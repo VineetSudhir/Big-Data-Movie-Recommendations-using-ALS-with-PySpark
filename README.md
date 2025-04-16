@@ -9,7 +9,6 @@ This project builds a movie recommendation system using the **Alternating Least 
 - **Framework:** PySpark (MLlib)
 - **Goal:** Predict user ratings for movies using collaborative filtering
 - **Challenges Addressed:**
-  - Large dataset (~163MB)
   - High sparsity of user-movie matrix
   - Performance optimization
 
